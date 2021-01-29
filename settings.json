@@ -673,6 +673,14 @@
       }
     }
   ],
+  "puppet": [
+    {
+      "command": "puppet-languageserver",
+      "requires": [
+        "puppet"
+      ]
+    }
+  ],
   "python": [
     {
       "command": "pyls-all",
